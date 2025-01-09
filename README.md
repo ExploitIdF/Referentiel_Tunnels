@@ -98,7 +98,6 @@ pour associer à chaque équipement sa **Fermeture**.
 [Programme de jointure pour les niches]( https://github.com/ExploitIdF/Referentiel_Tunnels/blob/main/niches/creationTableNiches.ipynb)
 
 ## Longueurs et nombre de voies
-On dispose d'un fichier qui contient les sections de tunnel et qui sont homogènes pour le nombre de voies. Ce fichier fournit une mesure pertinente du poids de chaque tunnel.
-[Longueurs et nombre de voies](https://raw.githubusercontent.com/ExploitIdF/Referentiel_Tunnels/refs/heads/main/import/tunnels_Longeurs_NbVoies.csv)
+On dispose d'un fichier ( [Longueurs et nombre de voies](https://raw.githubusercontent.com/ExploitIdF/Referentiel_Tunnels/refs/heads/main/import/tunnels_Longeurs_NbVoies.csv) ) qui contient les sections de tunnel et qui sont homogènes pour le nombre de voies. Ce fichier fournit une mesure pertinente du poids de chaque tunnel.
 
 
